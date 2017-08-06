@@ -7,3 +7,5 @@ This is a continuation of [previous PIG GAME](http://edwinchen.co/easy_pig_game/
 2. There are 2 dices to roll. The player loses his current score when one of the dices is a 1.
 
 [View demo site here.](http://edwinchen.co/advanced_pig_game/)
+
+![Preview](screenshot.png)
